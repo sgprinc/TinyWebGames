@@ -203,7 +203,7 @@ var render = function () {
         ctx.fillStyle = "green";
         ctx.fillText("Licorices found: " + licoricesFound, 20, 20);
         ctx.fillStyle = "red";
-        ctx.fillText("Frezing in: " + count, 20, 50);
+        ctx.fillText("Freezing in: " + count, 20, 50);
 
     } else {
         // Display game over message when timer finished
